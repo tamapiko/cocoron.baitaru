@@ -1,7 +1,7 @@
 {
-	"name": "Tamako Pay",
-	"short_name": "Tamako Pay",
-	"description": "Tamako Pay",
+	"name": "こころんバイタル管理",
+	"short_name": "こころんバイタル管理",
+	"description": "こころんバイタル管理アプリ",
 	"start_url": "./index.html",
 	"display": "standalone",
 	"theme_color": "#12151a",
